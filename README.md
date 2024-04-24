@@ -1,20 +1,15 @@
-<!--
-**xwalls/xwalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name]! 👋
 
-Here are some ideas to get you started:
+I'm an aspiring climber 🧗‍♂️, creative software developer 👨‍💻, and fitness enthusiast 🏋️ based in Hermosillo, Sonora 📍. When I'm not coding, you can find me scaling rock faces, or streaming games on Twitch 🎮.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-# Hello 👋
+- 🌱 I'm passionate about learning new technologies and improving my coding skills.
+- 💬 Ask me about software development or climbing!
+- 📫 Reach me at jxavierpp@gmail.com.
 
-## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwalls&hide=PHP,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=xwalls&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xwalls)](https://github.com/anuraghazra/github-readme-stats)
+
