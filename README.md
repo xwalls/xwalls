@@ -13,7 +13,7 @@ When I'm not coding, you can find me scaling rock faces or streaming games on Tw
 ## 🛠️ Skills
 - **Frontend:** Angular, Vue.js, Ionic Framework, D3.js, Chart.js, Next.js, React
 - **Backend:** Flask, PHP frameworks, Node.js
-- **Databases:** PostgreSQL
+- **Databases:** PostgreSQL, MongoDB, MYSQL
 - **DevOps:** Docker, CI/CD (GitHub Actions, Bitbucket Pipelines, CircleCI, GitLab CI)
 - **Cloud Services:** AWS Lambda, AWS S3, Azure
 - **Testing:** Chai.js, Jest, Pytest, Unittest, mutmut
